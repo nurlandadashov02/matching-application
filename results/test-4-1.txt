@@ -1,0 +1,1 @@
+CityList = [fulora,gyotino,quyuto,quyuto,cavana,gyotino]
